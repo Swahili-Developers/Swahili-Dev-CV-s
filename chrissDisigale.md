@@ -42,11 +42,9 @@ Projects
 **Food Ordering System:**
 -Front-end: angular.
 -Backend: springboot
-
 **Changisha:**
 -Front-end: angular.
 -Backend: springboot
-
 **Inventory:**
 -Front-end: Vue.
 -Backend: Laravel
