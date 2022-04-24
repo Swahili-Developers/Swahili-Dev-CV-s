@@ -20,13 +20,15 @@ What i am good at? (skills)
 - Flutter (framework) - Work with it to develop mobile application with Dart (Android & iOS)
 - Kotlin (language) - Work with it to develop mobile application (Android)
 - MySQL and SQLite - Work with them to store data
+- Photoshop, Adobe XD and Zeplin - Use them to work with mobile app designers
 - Android Studio, Xcode and Visual Studio Code as my best development tools
 
 Awards
 ------
 <p float="left">
-  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-0663a619-1906-4fe8-9fc6-fd157313e3a9.jpg" width="400" alt="award udemy" />
-  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-1005ab22-4a0e-4202-867b-909534856675.jpg" width="400" alt="award udemy" /> 
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-0663a619-1906-4fe8-9fc6-fd157313e3a9.jpg" width="500" alt="award udemy" />
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-1005ab22-4a0e-4202-867b-909534856675.jpg" width="500" alt="award udemy" />
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-fde83237-3575-48d4-b4fb-98bf968531cf.jpg" width="500" alt="award udemy" />
 </p>
 
 Work Experience
