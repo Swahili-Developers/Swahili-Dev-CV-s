@@ -38,12 +38,17 @@ Position: Fullstack software developer
 Date: 2022 - Till now
 
 
- below is my latest works, which is already in the production.
-• (The Univetisty of Dodoma Opinions App  (Udom Maoni App))[https://play.google.com/store/apps/details?id=institution.udom.maoni]	
-• (assengaonline App & blog (Magazine and News))[https://play.google.com/store/apps/details?id=tz.co.assengaonline]	
-• (Opener Non-Formal Education (DONE ))[https://play.google.com/store/apps/details?id=tz.co.done	Digital] 
-• (Kijana Voice Web )[https://kijanavoice.co.tz/]	
-• (UDOM Maoni Web ) [https://www.maoni.udom.ac.tz/]	
+ below is my latest works, which is already in the production
+
+(The Univetisty of Dodoma Opinions App  (Udom Maoni App))[https://play.google.com/store/apps/details?id=institution.udom.maoni]	
+
+(assengaonline App & blog (Magazine and News))[https://play.google.com/store/apps/details?id=tz.co.assengaonline]
+	
+(Digital Opener Non-Formal Education (DONE ))[https://play.google.com/store/apps/details?id=tz.co.done] 
+
+(Kijana Voice Web )[https://kijanavoice.co.tz/]	
+
+(UDOM Maoni Web ) [https://www.maoni.udom.ac.tz/]	
 
 SKILLS
 
