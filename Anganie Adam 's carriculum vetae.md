@@ -52,12 +52,17 @@ Date: 2022 - Till now
 
 SKILLS
 
-•	Computer programming literate: C++, JAVA, C#, VB, PHP, DART, JAVASCRIPT
-•	Frameworks: Android Native framework, Flutter, Laravel ,Javafx, Angular and Spring-boot Framework (Full stack).
-•	Networking skills: Basic knowledge on Fundamental protocols of networking
-•	Computer Security: Basic knowledge on some ethical security tools like OWASP, NIKTO
-•	Maintenance: full knowledge on Software maintenance, Basics knowledge on Hardware computer maintenance
-•	Development:  ICT Project Management and Software Development & Management
+	Computer programming literate: C++, JAVA, C#, VB, PHP, DART, JAVASCRIPT
+
+	Frameworks: Android Native framework, Flutter, Laravel ,Javafx, Angular and Spring-boot Framework (Full stack)
+
+	Networking skills: Basic knowledge on Fundamental protocols of networking
+
+	Computer Security: Basic knowledge on some ethical security tools like OWASP, NIKTO
+
+	Maintenance: full knowledge on Software maintenance, Basics knowledge on Hardware computer maintenance
+
+	Development:  ICT Project Management and Software Development & Management
 
  
 
