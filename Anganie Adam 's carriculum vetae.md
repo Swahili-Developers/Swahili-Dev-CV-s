@@ -11,6 +11,8 @@ EDUCATION
 - Awarded GRADE "A".
 
 WORK EXPERIENCE
+---------------
+
 I have 6+ years experience on making mobile apps (android),
 in that 6 years , 3 years as backend developer and after 2 years
 i started coding as front-end developer 
@@ -39,6 +41,7 @@ Date: 2022 - Till now
 
 
  below is my latest works, which is already in the production
+ ------------------------------------------------------------
 
 (The Univetisty of Dodoma Opinions App  (Udom Maoni App))[https://play.google.com/store/apps/details?id=institution.udom.maoni]	
 
@@ -51,6 +54,7 @@ Date: 2022 - Till now
 (UDOM Maoni Web ) [https://www.maoni.udom.ac.tz/]	
 
 SKILLS
+-------
 
 	Computer programming literate: C++, JAVA, C#, VB, PHP, DART, JAVASCRIPT
 
