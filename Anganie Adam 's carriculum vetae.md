@@ -43,7 +43,7 @@ Date: 2022 - Till now
 • (assengaonline App & blog (Magazine and News))[https://play.google.com/store/apps/details?id=tz.co.assengaonline]	
 • (Opener Non-Formal Education (DONE ))[https://play.google.com/store/apps/details?id=tz.co.done	Digital] 
 • (Kijana Voice Web )[https://kijanavoice.co.tz/]	
-• (UDOM Maoni Web )[https://www.maoni.udom.ac.tz/]	
+• (UDOM Maoni Web ) [https://www.maoni.udom.ac.tz/]	
 
 SKILLS
 
