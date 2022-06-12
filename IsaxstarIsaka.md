@@ -1,4 +1,4 @@
-Isaxstar Isaka
+Isaxstar Isaka (Full Stack JavaScript Developer)
 ======
 #### Develop secured APIs and awesome Mobile applications both Android and iOS
 - Email: isaxstarisaka@gmail.com
@@ -15,7 +15,7 @@ Education
 
 What i am good at? (skills)
 ------
-- NodeJS - Work with it to develop secured APIs
+- NodeJS - Work with it to develop secured APIs using Express.js
 - Flutter (framework) - Work with it to develop mobile application with Dart (Android & iOS)
 - Kotlin (language) - Work with it to develop mobile application (Android)
 - MongoDB and SQLite - Work with them to store data
@@ -25,10 +25,11 @@ What i am good at? (skills)
 Awards
 ------
 <p float="left">
-  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-0663a619-1906-4fe8-9fc6-fd157313e3a9.jpg" width="300" alt="award udemy" />
-  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-1005ab22-4a0e-4202-867b-909534856675.jpg" width="300" alt="award udemy" />
-  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-fde83237-3575-48d4-b4fb-98bf968531cf.jpg" width="300" alt="award udemy" />
-  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-1bb0e0e1-adb2-492e-90b9-1401b747d9f9.jpg" width="300" alt="award udemy" />
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-0663a619-1906-4fe8-9fc6-fd157313e3a9.jpg" width="250" alt="award udemy" />
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-1005ab22-4a0e-4202-867b-909534856675.jpg" width="250" alt="award udemy" />
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-fde83237-3575-48d4-b4fb-98bf968531cf.jpg" width="250" alt="award udemy" />
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-1bb0e0e1-adb2-492e-90b9-1401b747d9f9.jpg" width="250" alt="award udemy" />
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-fc01bb4d-b6bd-4aea-b38d-1af9dcae1ebc.jpg" width="250" alt="award udemy" />
 </p>
 
 Work Experience
