@@ -9,7 +9,7 @@ Godfrey Kamasho
 Education
 ---------
 **Bachelor of science In Computer Engineering (Undergraduate).**
-
+- Mentally Healthy prediction in adolescence Age
 - Sickle Cell health Monitoringn using IoT and Machine Learning. 
 - In Progress.
 
