@@ -42,4 +42,4 @@ Current Projects
 ------
 - **MU Timetable (IONIC):** iOS developed with Angular and Android Vue3 - [https://mutimetable.isaxstar.co.tz]
 - **Water Bill (Kotlin):** Android - [https://waterbill.isaxstar.co.tz]
-- **Safari Trek Beach (Vue and Laravel):** Website and System - [https://safaritrekbeach.com]
+- **Safari Trek Beach (NuxtJS and NestJS):** Website and System - [https://safaritrekbeach.com]
