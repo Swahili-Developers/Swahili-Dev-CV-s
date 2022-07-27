@@ -14,6 +14,7 @@ institute; university of Dar es salaam computing center(UCC)
    * php
     * java
     * html,css and javascripts
+    * android(java)
 * Networking(CCNA)
 * Laravel (PHP framework)
 * MySQL and SQLite
