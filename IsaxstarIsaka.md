@@ -15,10 +15,10 @@ Education
 
 What i am good at? (skills)
 ------
-- NestJS and Spring Boot - Work with them to develop secured APIs
-- Flutter (framework) - Work with it to develop mobile application with Dart (Android & iOS)
+- NestJS & Spring Boot - Work with them to develop secured APIs
+- Flutter & IONIC - Work with them to develop mobile applications both Android & iOS
 - Kotlin (language) - Work with it to develop mobile application (Android)
-- MongoDB and SQLite - Work with them to store data
+- MongoDB & SQLite - Work with them to store data
 - Photoshop, Adobe XD and Zeplin - Use them to work with mobile app designers
 - Android Studio, Xcode and Visual Studio Code as my best development tools
 
