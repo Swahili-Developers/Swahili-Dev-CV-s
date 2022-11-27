@@ -2,7 +2,7 @@ Isaka Mabagala (Mobile Apps Developer)
 ======
 #### Develop secured APIs and awesome Mobile applications both Android and iOS
 - Email: isaxstarisaka@gmail.com
-- Website: www.isaxstar.co.tz
+- Website: www.isaka.co.tz
 
 Education
 ---------
@@ -30,6 +30,6 @@ Work Experience
 
 Current Projects
 ------
-- **MU Timetable (IONIC):** iOS developed with Angular and Android Vue3 - [https://mutimetable.isaxstar.co.tz]
-- **Water Bill Meter Reading (Kotlin):** Android app - [https://waterbill.isaxstar.co.tz]
+- **MU Timetable (IONIC):** iOS developed with Angular and Android Vue3 - [https://mutimetable.isaka.co.tz]
+- **Water Bill Meter Reading (Kotlin):** Android app - [https://waterbill.isaka.co.tz]
 - **Safari Trek Beach (NuxtJS, VueJS and NestJS):** Website and System - [https://safaritrekbeach.com]
