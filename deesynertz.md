@@ -18,7 +18,7 @@
 - At:[Mzumbe University](https://site.mzumbe.ac.tz/). 
 - FYP:Money Stock Point [MSP]. 
 
-**Diploma of science In Information and Technology [DIT](awarded 2018).**
+**Diploma of Information and Technology [DIT](awarded 2018).**
 - At:[Mzumbe University](https://site.mzumbe.ac.tz/). 
 - FYP:Blood Bank Management System [BBMS]. 
 
