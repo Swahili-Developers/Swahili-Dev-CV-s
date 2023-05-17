@@ -15,12 +15,13 @@ Introduction to IoT.
 # Skills
 
 * Programming languages
-   * php
+   * hp
     * java
     * html,css and javascripts
     * android(java)
+    * C/C++
 * Networking(CCNA)
 * Laravel (PHP framework)
 * MySQL and SQLite
-* Android Studio , VsCode , Intelj Idea  and NetBeans - IDE's
+* Android Studio , VsCode , Intelj Idea, NetBeans and Aduino - IDE's
 
