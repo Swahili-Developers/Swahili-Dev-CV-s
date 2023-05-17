@@ -15,7 +15,7 @@ Introduction to IoT.
 # Skills
 
 * Programming languages
-   * hp
+   * php
     * java
     * html,css and javascripts
     * android(java)
