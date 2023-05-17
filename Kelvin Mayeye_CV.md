@@ -1,12 +1,16 @@
 # Kelvin Mayeye
-Develops backend and frontend web(fullstack develop) build android applications with java.I like build programs and application to solve different problems.
+Programmer with expertise in PHP, Laravel, Java, mobile app development, and system administration. I have worked extensively with Nginx and Linux in managing computer networks, troubleshooting server performance and connectivity issues.
 # Education
 
 ## currently; Bsc Information and Communication Technology with Business
 Mzumbe University Morogoro
 ## 2017-2019; Diploma in Computing and Information Technology
-
 institute; university of Dar es salaam computing center(UCC)
+## Award certification
+CCNA Routing and Switching: Introduction to Networks
+CCNA Routing and Switching: Connecting Networks
+CCNA Routing and Switching: Scaling Networks
+Introduction to IoT
 
 # Skills
 
