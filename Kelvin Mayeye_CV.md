@@ -25,3 +25,7 @@ Introduction to IoT.
 * MySQL and SQLite
 * Android Studio , VsCode , Intelj Idea, NetBeans and Aduino - IDE's
 
+# Clients
+* Brainyield Nursery and Primary School
+* Goldenlight Nursery and Primary School
+
