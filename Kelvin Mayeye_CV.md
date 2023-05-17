@@ -7,10 +7,10 @@ Mzumbe University Morogoro
 ## 2017-2019; Diploma in Computing and Information Technology
 institute; university of Dar es salaam computing center(UCC)
 ## Award certification
-CCNA Routing and Switching: Introduction to Networks
-CCNA Routing and Switching: Connecting Networks
-CCNA Routing and Switching: Scaling Networks
-Introduction to IoT
+CCNA Routing and Switching: Introduction to Networks, 
+CCNA Routing and Switching: Connecting Networks, 
+CCNA Routing and Switching: Scaling Networks, 
+Introduction to IoT.
 
 # Skills
 
