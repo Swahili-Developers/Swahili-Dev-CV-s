@@ -1,5 +1,5 @@
 # Kelvin Mayeye
-Programmer with expertise in PHP, Laravel, Java, mobile app development, and system administration. I have worked extensively with Nginx and Linux in managing computer networks, troubleshooting server performance and connectivity issues.
+Software Developer with expertise in PHP, Laravel, Java, mobile app development, and system administration. I have worked extensively with Nginx and Linux in managing computer networks, troubleshooting server performance and connectivity issues.
 # Education
 
 ## currently; Bsc Information and Communication Technology with Business
