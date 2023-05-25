@@ -1,6 +1,6 @@
 Isaka Mabagala (Mobile Apps Developer)
 ======
-#### Develop secured APIs and awesome Mobile applications both Android and iOS
+#### Develop awesome Mobile applications both Android and iOS
 - Email: isaxstarisaka@gmail.com
 - Website: www.isaka.co.tz
 
@@ -15,11 +15,11 @@ Education
 
 What i am good at? (skills)
 ------
-- NestJS & Spring Boot - Work with them to develop secured APIs
+- NodeJS & Spring Boot (Java) - Work with them to develop secured APIs
 - Kotlin (language) - Work with it to develop mobile application (Android)
 - Swift (language) - Work with it to develop mobile application (iOS)
-- MongoDB & SQLite - Work with them to store data
-- Photoshop, Adobe XD and Zeplin - Use them to work with mobile app designers
+- Firestore, MongoDB & SQLite - Work with them to store data
+- Photoshop, Adobe XD, Sketch and Zeplin - Use them to work with mobile app designers
 - Android Studio, Xcode and Visual Studio Code as my best development tools
 
 Work Experience
@@ -31,5 +31,5 @@ Work Experience
 Current Projects
 ------
 - **MU Timetable (IONIC):** iOS developed with Angular and Android Vue3 - [https://mutimetable.isaka.co.tz]
-- **Water Bill Meter Reading (Kotlin):** Android app - [https://waterbill.isaka.co.tz]
-- **Safari Trek Beach (NuxtJS, VueJS and NestJS):** Website and System - [https://safaritrekbeach.com]
+- **MU Navigation (Kotlin):** Android app - [https://munavigation.isaka.co.tz]
+- **Safari Trek Beach (NuxtJS, VueJS and NestJS):** Website and System - [https://safaritreksbeach.com]
