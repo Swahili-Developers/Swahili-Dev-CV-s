@@ -28,7 +28,7 @@ Awards & HackerThon
 ------
 **UCS HackerThon Native Developer** 
 **OpenSRP Project (Waja and Kituoni apps)**
-- Digital Square under Ministry of HealthTanzania
+- Digital Square 
 - Tech: Android,Java, Unit testing, integration testing, Github-actions.
 - October 2023 
 
