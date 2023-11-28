@@ -3,6 +3,8 @@ Fatuma Chitu (Mobile developer both iOs and Android)
 
 
 ###### [ GitHub acc: [ www.github.com/chirtu ] ]
+###### [ LinkedIn acc: [ [www.github.com/chirtu](https://tz.linkedin.com/in/fatuma-chitu) ] ]
+
 
 
 Education
