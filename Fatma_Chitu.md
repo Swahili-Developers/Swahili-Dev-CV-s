@@ -105,7 +105,7 @@ Projects
 - Tech: Flutter, Firebase, Unit testing, integration testing, Github-actions.
 - April 2022 - July 2022
 
-  ###WEB PROJECT###
+  **WEB PROJECT**
 **MNRTWeb System under Ministry of Natural Resources and Wildlife-Tanzania**
 - Web Developer
 - Tech:Angular js, Laravel, PostgreSQL, Unit testing, integration testing, Githubactions.
