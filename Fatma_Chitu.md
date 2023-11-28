@@ -38,7 +38,7 @@ Projects
 - January 2023 - Present
 - Ujuzinet Company
 - Android: https://play.google.com/store/apps/details?id=com.ujuzinet.mazaohub_agridealer
-Tech: Flutter, State Management, Api Integration, Github-actions.
+- Tech: Flutter, State Management, Api Integration, Github-actions.
 
 **MazaoHub apps - Mobile Developer**
 - January 2023 - Present
