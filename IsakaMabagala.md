@@ -34,7 +34,7 @@ Work Experience
 
 **Place:** Safari Trek Beach (Tourism Company)<br/>
 **Position:** Software Developer<br/>
-**Date:** September 2020 – Present<br/>
+**Date:** September 2020 – November 2023<br/>
 
 Current Projects
 ------
