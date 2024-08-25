@@ -1,4 +1,4 @@
-Isaka Mabagala (Mobile Apps Developer)
+Isaka Mabagala (Full Stack Mobile Developer)
 ======
 #### Develop awesome Mobile applications both Android and iOS
 - Email: isaxstarisaka@gmail.com
@@ -18,26 +18,33 @@ Education
 
 What i am good at? (skills)
 ------
-- Spring Boot (Java) - Work with it to develop secured APIs
-- Kotlin (language) - Work with it to develop mobile application (Android)
-- Swift (language) - Work with it to develop mobile application (iOS)
-- Flutter - Work with it to develop mobile application (Android & iOS)
-- Firestore, MongoDB & SQLite - Work with them to store data
-- Photoshop & Adobe XD - Use them to work with mobile app designers
-- Android Studio, Xcode and Visual Studio Code as my best development tools
+- Kotlin Multiplatform and Flutter (Apps Development)
+- NodeJS and Spring Boot (APIs Development)
+- Firestore, MongoDB & SQLite (Data Store)
+- Android Studio, Xcode and Visual Studio Code (Development Tools)
+- Photoshop, Adobe XD and Figma (Designing Tools)
+- Ubuntu OS and Nginx (System Deployment)
 
 Work Experience
 ------
-**Place:** Pessars Company Limited (Software Solutions)<br/>
-**Position:** Software Developer<br/>
-**Date:** October 2023 – Present<br/>
+**Position:** Kotlin Developer<br/>
+**Company:** aSoft Limited (Software Solutions)<br/>
+**Location:** Dar es Salaam, Tanzania **-** Remote<br/>
+**Date:** August 2024 – Present<br/>
 
-**Place:** Safari Trek Beach (Tourism Company)<br/>
 **Position:** Software Developer<br/>
+**Company:** Pessars Company Limited (Software Solutions)<br/>
+**Location:** Dar es Salaam, Tanzania **-** On-site<br/>
+**Date:** October 2023 – June 2024<br/>
+
+**Position:** Software Developer<br/>
+**Company:** Safari Trek Beach (Tourism Company)<br/>
+**Location:** Arusha, Tanzania **-** Hybrid<br/>
 **Date:** September 2020 – November 2023<br/>
 
 Current Projects
 ------
+- **Prime Ice Tub (Flutter):** Mobile app - [https://primeicetub.com]
 - **Pesaby (Swift):** Mobile app - [https://pesaby.com]
 - **What Dog (Swift):** Mobile app - [https://whatdog.isaka.co.tz]
 - **MU Navigation (Kotlin):** Mobile app - [https://munavigation.isaka.co.tz]
